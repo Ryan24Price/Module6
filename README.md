@@ -11,4 +11,7 @@ Lab 3 (Slide 59) - Emoji.jsx
 Lab 4 (Slide 73) - BigCats.jsx
 Lab 5 (Slide 81) - AddCatForm.jsx
 Lab 6 (Slide 90) - Calculator.jsx
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3a06f8f37657b8eb4c14bd53eddd58e5e7181868
